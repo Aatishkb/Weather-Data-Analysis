@@ -353,4 +353,6 @@ d[(d['RainToday']=='Yes')&(d['Rainfall']!=0.0)]
 ### My Blog -
 - https://computersciencedatascience.blogspot.com/
 
+### 👉 PLEASE CLICK ON .ipynb file to see original view of this project.
+
 ### Thank you!
